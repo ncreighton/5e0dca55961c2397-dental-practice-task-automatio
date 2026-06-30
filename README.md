@@ -1,2 +1,25 @@
-# 5e0dca55961c2397-dental-practice-task-automatio
-Professional dental practice digital template — without the professional price tag.  Ready to use immediately — open, fill in your details, done. Professional formatting tested across different screen sizes and printers.  ## What's Included  - Dental Practice Task Automation And Delegation — fully configured and ready to use - Fully editable: all f
+# Dental Practice Task Automation and Delegation System
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/fZu5kD3aLe2MaNO33mcZE29)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/fZu5kD3aLe2MaNO33mcZE29)
+
